@@ -1,0 +1,206 @@
+"Time","Uninsured Alabama All Ages Female All Races Non-Insured
+ #","Uninsured Alabama All Ages Female All Races Non-Insured Pct
+ %","Uninsured Alabama All Ages Male All Races Non-Insured
+ #","Uninsured Alabama All Ages Male All Races Non-Insured Pct
+ %","Uninsured Alaska All Ages Female All Races Non-Insured
+ #","Uninsured Alaska All Ages Female All Races Non-Insured Pct
+ %","Uninsured Alaska All Ages Male All Races Non-Insured
+ #","Uninsured Alaska All Ages Male All Races Non-Insured Pct
+ %","Uninsured Arizona All Ages Female All Races Non-Insured
+ #","Uninsured Arizona All Ages Female All Races Non-Insured Pct
+ %","Uninsured Arizona All Ages Male All Races Non-Insured
+ #","Uninsured Arizona All Ages Male All Races Non-Insured Pct
+ %","Uninsured Arkansas All Ages Female All Races Non-Insured
+ #","Uninsured Arkansas All Ages Female All Races Non-Insured Pct
+ %","Uninsured Arkansas All Ages Male All Races Non-Insured
+ #","Uninsured Arkansas All Ages Male All Races Non-Insured Pct
+ %","Uninsured California All Ages Female All Races Non-Insured
+ #","Uninsured California All Ages Female All Races Non-Insured Pct
+ %","Uninsured California All Ages Male All Races Non-Insured
+ #","Uninsured California All Ages Male All Races Non-Insured Pct
+ %","Uninsured Colorado All Ages Female All Races Non-Insured
+ #","Uninsured Colorado All Ages Female All Races Non-Insured Pct
+ %","Uninsured Colorado All Ages Male All Races Non-Insured
+ #","Uninsured Colorado All Ages Male All Races Non-Insured Pct
+ %","Uninsured Connecticut All Ages Female All Races Non-Insured
+ #","Uninsured Connecticut All Ages Female All Races Non-Insured Pct
+ %","Uninsured Connecticut All Ages Male All Races Non-Insured
+ #","Uninsured Connecticut All Ages Male All Races Non-Insured Pct
+ %","Uninsured Delaware All Ages Female All Races Non-Insured
+ #","Uninsured Delaware All Ages Female All Races Non-Insured Pct
+ %","Uninsured Delaware All Ages Male All Races Non-Insured
+ #","Uninsured Delaware All Ages Male All Races Non-Insured Pct
+ %","Uninsured Florida All Ages Female All Races Non-Insured
+ #","Uninsured Florida All Ages Female All Races Non-Insured Pct
+ %","Uninsured Florida All Ages Male All Races Non-Insured
+ #","Uninsured Florida All Ages Male All Races Non-Insured Pct
+ %","Uninsured Georgia All Ages Female All Races Non-Insured
+ #","Uninsured Georgia All Ages Female All Races Non-Insured Pct
+ %","Uninsured Georgia All Ages Male All Races Non-Insured
+ #","Uninsured Georgia All Ages Male All Races Non-Insured Pct
+ %","Uninsured Hawaii All Ages Female All Races Non-Insured
+ #","Uninsured Hawaii All Ages Female All Races Non-Insured Pct
+ %","Uninsured Hawaii All Ages Male All Races Non-Insured
+ #","Uninsured Hawaii All Ages Male All Races Non-Insured Pct
+ %","Uninsured Idaho All Ages Female All Races Non-Insured
+ #","Uninsured Idaho All Ages Female All Races Non-Insured Pct
+ %","Uninsured Idaho All Ages Male All Races Non-Insured
+ #","Uninsured Idaho All Ages Male All Races Non-Insured Pct
+ %","Uninsured Illinois All Ages Female All Races Non-Insured
+ #","Uninsured Illinois All Ages Female All Races Non-Insured Pct
+ %","Uninsured Illinois All Ages Male All Races Non-Insured
+ #","Uninsured Illinois All Ages Male All Races Non-Insured Pct
+ %","Uninsured Indiana All Ages Female All Races Non-Insured
+ #","Uninsured Indiana All Ages Female All Races Non-Insured Pct
+ %","Uninsured Indiana All Ages Male All Races Non-Insured
+ #","Uninsured Indiana All Ages Male All Races Non-Insured Pct
+ %","Uninsured Iowa All Ages Female All Races Non-Insured
+ #","Uninsured Iowa All Ages Female All Races Non-Insured Pct
+ %","Uninsured Iowa All Ages Male All Races Non-Insured
+ #","Uninsured Iowa All Ages Male All Races Non-Insured Pct
+ %","Uninsured Kansas All Ages Female All Races Non-Insured
+ #","Uninsured Kansas All Ages Female All Races Non-Insured Pct
+ %","Uninsured Kansas All Ages Male All Races Non-Insured
+ #","Uninsured Kansas All Ages Male All Races Non-Insured Pct
+ %","Uninsured Kentucky All Ages Female All Races Non-Insured
+ #","Uninsured Kentucky All Ages Female All Races Non-Insured Pct
+ %","Uninsured Kentucky All Ages Male All Races Non-Insured
+ #","Uninsured Kentucky All Ages Male All Races Non-Insured Pct
+ %","Uninsured Louisiana All Ages Female All Races Non-Insured
+ #","Uninsured Louisiana All Ages Female All Races Non-Insured Pct
+ %","Uninsured Louisiana All Ages Male All Races Non-Insured
+ #","Uninsured Louisiana All Ages Male All Races Non-Insured Pct
+ %","Uninsured Maine All Ages Female All Races Non-Insured
+ #","Uninsured Maine All Ages Female All Races Non-Insured Pct
+ %","Uninsured Maine All Ages Male All Races Non-Insured
+ #","Uninsured Maine All Ages Male All Races Non-Insured Pct
+ %","Uninsured Maryland All Ages Female All Races Non-Insured
+ #","Uninsured Maryland All Ages Female All Races Non-Insured Pct
+ %","Uninsured Maryland All Ages Male All Races Non-Insured
+ #","Uninsured Maryland All Ages Male All Races Non-Insured Pct
+ %","Uninsured Massachusetts All Ages Female All Races Non-Insured
+ #","Uninsured Massachusetts All Ages Female All Races Non-Insured Pct
+ %","Uninsured Massachusetts All Ages Male All Races Non-Insured
+ #","Uninsured Massachusetts All Ages Male All Races Non-Insured Pct
+ %","Uninsured Michigan All Ages Female All Races Non-Insured
+ #","Uninsured Michigan All Ages Female All Races Non-Insured Pct
+ %","Uninsured Michigan All Ages Male All Races Non-Insured
+ #","Uninsured Michigan All Ages Male All Races Non-Insured Pct
+ %","Uninsured Minnesota All Ages Female All Races Non-Insured
+ #","Uninsured Minnesota All Ages Female All Races Non-Insured Pct
+ %","Uninsured Minnesota All Ages Male All Races Non-Insured
+ #","Uninsured Minnesota All Ages Male All Races Non-Insured Pct
+ %","Uninsured Mississippi All Ages Female All Races Non-Insured
+ #","Uninsured Mississippi All Ages Female All Races Non-Insured Pct
+ %","Uninsured Mississippi All Ages Male All Races Non-Insured
+ #","Uninsured Mississippi All Ages Male All Races Non-Insured Pct
+ %","Uninsured Missouri All Ages Female All Races Non-Insured
+ #","Uninsured Missouri All Ages Female All Races Non-Insured Pct
+ %","Uninsured Missouri All Ages Male All Races Non-Insured
+ #","Uninsured Missouri All Ages Male All Races Non-Insured Pct
+ %","Uninsured Montana All Ages Female All Races Non-Insured
+ #","Uninsured Montana All Ages Female All Races Non-Insured Pct
+ %","Uninsured Montana All Ages Male All Races Non-Insured
+ #","Uninsured Montana All Ages Male All Races Non-Insured Pct
+ %","Uninsured Nebraska All Ages Female All Races Non-Insured
+ #","Uninsured Nebraska All Ages Female All Races Non-Insured Pct
+ %","Uninsured Nebraska All Ages Male All Races Non-Insured
+ #","Uninsured Nebraska All Ages Male All Races Non-Insured Pct
+ %","Uninsured Nevada All Ages Female All Races Non-Insured
+ #","Uninsured Nevada All Ages Female All Races Non-Insured Pct
+ %","Uninsured Nevada All Ages Male All Races Non-Insured
+ #","Uninsured Nevada All Ages Male All Races Non-Insured Pct
+ %","Uninsured New Hampshire All Ages Female All Races Non-Insured
+ #","Uninsured New Hampshire All Ages Female All Races Non-Insured Pct
+ %","Uninsured New Hampshire All Ages Male All Races Non-Insured
+ #","Uninsured New Hampshire All Ages Male All Races Non-Insured Pct
+ %","Uninsured New Jersey All Ages Female All Races Non-Insured
+ #","Uninsured New Jersey All Ages Female All Races Non-Insured Pct
+ %","Uninsured New Jersey All Ages Male All Races Non-Insured
+ #","Uninsured New Jersey All Ages Male All Races Non-Insured Pct
+ %","Uninsured New Mexico All Ages Female All Races Non-Insured
+ #","Uninsured New Mexico All Ages Female All Races Non-Insured Pct
+ %","Uninsured New Mexico All Ages Male All Races Non-Insured
+ #","Uninsured New Mexico All Ages Male All Races Non-Insured Pct
+ %","Uninsured New York All Ages Female All Races Non-Insured
+ #","Uninsured New York All Ages Female All Races Non-Insured Pct
+ %","Uninsured New York All Ages Male All Races Non-Insured
+ #","Uninsured New York All Ages Male All Races Non-Insured Pct
+ %","Uninsured North Carolina All Ages Female All Races Non-Insured
+ #","Uninsured North Carolina All Ages Female All Races Non-Insured Pct
+ %","Uninsured North Carolina All Ages Male All Races Non-Insured
+ #","Uninsured North Carolina All Ages Male All Races Non-Insured Pct
+ %","Uninsured North Dakota All Ages Female All Races Non-Insured
+ #","Uninsured North Dakota All Ages Female All Races Non-Insured Pct
+ %","Uninsured North Dakota All Ages Male All Races Non-Insured
+ #","Uninsured North Dakota All Ages Male All Races Non-Insured Pct
+ %","Uninsured Ohio All Ages Female All Races Non-Insured
+ #","Uninsured Ohio All Ages Female All Races Non-Insured Pct
+ %","Uninsured Ohio All Ages Male All Races Non-Insured
+ #","Uninsured Ohio All Ages Male All Races Non-Insured Pct
+ %","Uninsured Oklahoma All Ages Female All Races Non-Insured
+ #","Uninsured Oklahoma All Ages Female All Races Non-Insured Pct
+ %","Uninsured Oklahoma All Ages Male All Races Non-Insured
+ #","Uninsured Oklahoma All Ages Male All Races Non-Insured Pct
+ %","Uninsured Oregon All Ages Female All Races Non-Insured
+ #","Uninsured Oregon All Ages Female All Races Non-Insured Pct
+ %","Uninsured Oregon All Ages Male All Races Non-Insured
+ #","Uninsured Oregon All Ages Male All Races Non-Insured Pct
+ %","Uninsured Pennsylvania All Ages Female All Races Non-Insured
+ #","Uninsured Pennsylvania All Ages Female All Races Non-Insured Pct
+ %","Uninsured Pennsylvania All Ages Male All Races Non-Insured
+ #","Uninsured Pennsylvania All Ages Male All Races Non-Insured Pct
+ %","Uninsured Rhode Island All Ages Female All Races Non-Insured
+ #","Uninsured Rhode Island All Ages Female All Races Non-Insured Pct
+ %","Uninsured Rhode Island All Ages Male All Races Non-Insured
+ #","Uninsured Rhode Island All Ages Male All Races Non-Insured Pct
+ %","Uninsured South Carolina All Ages Female All Races Non-Insured
+ #","Uninsured South Carolina All Ages Female All Races Non-Insured Pct
+ %","Uninsured South Carolina All Ages Male All Races Non-Insured
+ #","Uninsured South Carolina All Ages Male All Races Non-Insured Pct
+ %","Uninsured South Dakota All Ages Female All Races Non-Insured
+ #","Uninsured South Dakota All Ages Female All Races Non-Insured Pct
+ %","Uninsured South Dakota All Ages Male All Races Non-Insured
+ #","Uninsured South Dakota All Ages Male All Races Non-Insured Pct
+ %","Uninsured Tennessee All Ages Female All Races Non-Insured
+ #","Uninsured Tennessee All Ages Female All Races Non-Insured Pct
+ %","Uninsured Tennessee All Ages Male All Races Non-Insured
+ #","Uninsured Tennessee All Ages Male All Races Non-Insured Pct
+ %","Uninsured Texas All Ages Female All Races Non-Insured
+ #","Uninsured Texas All Ages Female All Races Non-Insured Pct
+ %","Uninsured Texas All Ages Male All Races Non-Insured
+ #","Uninsured Texas All Ages Male All Races Non-Insured Pct
+ %","Uninsured Utah All Ages Female All Races Non-Insured
+ #","Uninsured Utah All Ages Female All Races Non-Insured Pct
+ %","Uninsured Utah All Ages Male All Races Non-Insured
+ #","Uninsured Utah All Ages Male All Races Non-Insured Pct
+ %","Uninsured Vermont All Ages Female All Races Non-Insured
+ #","Uninsured Vermont All Ages Female All Races Non-Insured Pct
+ %","Uninsured Vermont All Ages Male All Races Non-Insured
+ #","Uninsured Vermont All Ages Male All Races Non-Insured Pct
+ %","Uninsured Virginia All Ages Female All Races Non-Insured
+ #","Uninsured Virginia All Ages Female All Races Non-Insured Pct
+ %","Uninsured Virginia All Ages Male All Races Non-Insured
+ #","Uninsured Virginia All Ages Male All Races Non-Insured Pct
+ %","Uninsured Washington All Ages Female All Races Non-Insured
+ #","Uninsured Washington All Ages Female All Races Non-Insured Pct
+ %","Uninsured Washington All Ages Male All Races Non-Insured
+ #","Uninsured Washington All Ages Male All Races Non-Insured Pct
+ %","Uninsured West Virginia All Ages Female All Races Non-Insured
+ #","Uninsured West Virginia All Ages Female All Races Non-Insured Pct
+ %","Uninsured West Virginia All Ages Male All Races Non-Insured
+ #","Uninsured West Virginia All Ages Male All Races Non-Insured Pct
+ %","Uninsured Wisconsin All Ages Female All Races Non-Insured
+ #","Uninsured Wisconsin All Ages Female All Races Non-Insured Pct
+ %","Uninsured Wisconsin All Ages Male All Races Non-Insured
+ #","Uninsured Wisconsin All Ages Male All Races Non-Insured Pct
+ %","Uninsured Wyoming All Ages Female All Races Non-Insured
+ #","Uninsured Wyoming All Ages Female All Races Non-Insured Pct
+ %","Uninsured Wyoming All Ages Male All Races Non-Insured
+ #","Uninsured Wyoming All Ages Male All Races Non-Insured Pct
+ %"
+"2007",322097,13.65,366669,16.88,50174,15.52,58772,17.49,612435,19.64,698084,22.16,242400,17.02,278477,20.89,2967492,16.31,3823311,21.22,359725,15.19,466064,19.15,147152,8.30,178238,10.55,45800,10.43,58833,13.93,1755038,19.07,2073381,23.41,732131,15.34,926672,20.25,50722,7.95,59661,9.68,98882,13.51,127750,17.21,802415,12.42,973810,15.75,346973,10.92,400752,12.68,141445,9.51,165495,11.56,164145,11.93,171132,12.71,316103,14.87,323340,16.32,465080,21.31,455898,22.46,55907,8.36,66550,10.30,348077,12.08,428190,15.68,257016,7.85,400141,13.08,490603,9.66,551998,11.29,207377,8.04,267146,10.40,286358,19.21,313805,22.39,366158,12.37,405524,14.28,76947,16.42,82686,17.87,93701,10.65,123715,13.96,219554,17.64,276565,21.44,60664,9.18,89387,13.80,627753,14.18,713252,16.85,223324,22.47,222133,23.40,1141410,11.60,1520330,16.52,739539,16.40,845175,19.47,29066,9.37,46419,15.15,527638,9.08,610374,11.08,324359,18.05,337140,19.88,299229,16.05,365287,19.74,574483,9.11,662158,10.96,41666,7.70,48847,9.53,305775,13.80,366569,18.24,43811,11.32,47359,12.35,339569,10.99,469061,16.57,2763341,23.41,2940424,25.72,218212,17.07,224219,17.82,28739,9.15,34597,11.30,456371,11.84,549450,14.92,326433,10.18,419852,13.49,109627,11.95,135160,15.07,198999,7.17,281567,10.42,33172,13.10,42005,15.98
+"2006",291774,12.49,365358,16.69,50244,15.60,63228,18.78,552816,18.36,630349,20.76,232799,16.49,249647,18.52,3029203,16.77,3728012,20.85,360370,15.58,411386,17.68,173264,9.73,207531,12.16,47297,10.92,55404,13.48,1736273,19.03,1879835,21.45,769347,16.71,884711,19.93,51426,7.95,58989,9.33,99973,13.95,113525,15.65,806145,12.53,923696,14.97,398008,12.61,434475,14.56,121606,8.20,119078,8.35,120762,8.86,157212,11.81,235890,11.21,261696,13.43,370414,17.45,354720,18.05,56864,8.49,78790,12.12,334418,11.59,411813,15.35,239817,7.39,343282,11.14,482041,9.45,550686,11.29,168052,6.55,239513,9.34,217377,14.85,265963,19.13,347402,11.83,320744,11.57,66786,14.33,78076,16.90,77958,8.88,107230,12.07,200049,16.57,217831,17.57,63544,9.64,62348,9.71,570417,12.87,694534,16.18,194438,19.74,198559,20.83,1105532,11.28,1368216,14.84,606899,13.77,705037,16.98,26306,8.41,42255,13.49,569581,9.81,718505,12.99,316010,17.72,311075,18.07,274161,14.96,291681,16.25,515935,8.17,679943,11.39,58198,10.65,63486,12.52,336888,15.49,384526,19.17,38537,9.98,51025,13.36,345379,11.36,452233,16.00,2584322,22.36,2809447,24.95,184460,14.92,229555,17.83,31031,9.90,40596,13.17,400385,10.45,550662,15.20,357830,11.36,470489,15.18,148635,16.22,155761,17.64,215087,7.76,293982,10.99,36102,14.38,38642,14.87
+"2005",284422,12.27,277751,12.66,47025,14.79,59974,18.14,427224,14.71,533349,18.62,213340,15.34,228091,17.02,2887473,16.03,3553187,19.91,339721,14.92,379138,16.88,166159,9.33,214468,12.53,45341,10.65,64204,16.03,1546180,17.34,1835728,21.47,678130,15.19,790899,18.65,41654,6.62,62323,10.06,97560,14.02,102466,15.08,754191,11.76,886143,14.34,398501,12.69,448420,14.97,122514,8.30,143881,10.07,141923,10.46,143870,10.92,234968,11.23,320844,16.18,383064,16.69,323499,15.21,47368,7.07,67999,10.89,365221,12.77,376357,13.98,325001,9.96,394993,12.72,496412,9.72,612413,12.58,172583,6.77,261625,10.15,236188,15.97,241483,17.38,308356,10.60,361796,13.38,79464,17.24,86073,19.09,82213,9.42,97916,11.44,198679,16.98,241120,19.74,58445,8.93,72150,11.30,546657,12.32,654358,15.48,169661,17.48,207812,22.31,1060034,10.80,1342441,14.53,549884,12.69,702270,17.12,25172,8.08,37876,12.00,535702,9.22,657102,12.04,325909,18.53,335038,19.88,269732,14.97,313384,17.61,601420,9.54,729618,12.42,49853,9.05,59265,11.72,279668,13.05,328797,16.60,36083,9.42,48060,12.97,322627,10.75,443725,15.54,2584956,22.89,2819673,25.54,148745,12.46,169663,14.14,29371,9.38,35649,11.74,460429,12.21,526071,14.57,331093,10.66,427592,14.20,138317,15.08,150241,17.18,242120,8.78,309024,11.43,29922,11.97,33639,13.55
+"2004",263194,11.45,323017,15.19,51617,16.41,68972,20.86,438011,15.54,490651,17.80,229664,16.66,227501,17.61,2917716,16.38,3404407,19.36,342910,15.22,401964,18.05,159545,9.01,186213,11.29,37446,8.95,48181,11.99,1411690,16.23,1557176,18.94,677677,15.40,694216,16.65,53836,8.49,65481,10.58,108746,15.92,137891,20.38,760814,11.91,1000124,16.02,389434,12.49,403049,13.30,146602,9.96,171084,11.80,129631,9.56,145845,10.99,270989,13.00,269007,13.28,437189,19.11,428656,20.02,57960,8.72,70266,11.37,311325,10.98,421902,15.87,269117,8.19,377876,12.26,457998,8.99,554632,11.50,173098,6.84,246517,9.68,235375,16.06,265546,19.13,259407,8.98,345947,12.64,80901,17.72,92456,20.10,81375,9.34,99444,11.62,202895,18.14,207258,18.31,60813,9.36,61195,9.96,547163,12.41,601567,14.42,201274,21.13,208909,22.75,1210087,12.33,1573425,17.19,632600,14.85,765152,19.16,25248,8.11,36107,11.28,599894,10.35,689782,12.66,347173,19.68,338843,20.25,255404,14.23,335061,18.89,612963,9.75,685402,11.68,48080,8.70,55925,11.17,255131,12.06,299926,15.39,38812,10.23,46735,12.57,331255,11.16,416849,14.18,2596819,23.38,2652577,24.67,139159,11.85,150934,12.81,25173,8.05,31087,10.41,415296,11.11,506283,13.87,425321,13.84,508470,16.85,142526,15.54,149725,17.21,235911,8.61,333114,12.39,37595,15.22,36205,15.01
+"2003",260300,11.33,279166,13.03,50050,16.02,67350,20.87,405850,14.94,481538,17.67,196349,14.31,234236,17.75,2829743,15.98,3401230,19.49,304313,13.61,371339,16.57,153470,8.70,177986,11.00,32533,7.91,42148,10.89,1295760,15.35,1444004,18.08,635673,14.70,685038,16.70,57346,9.30,62632,10.31,100800,15.17,123981,19.52,712431,11.09,981795,16.14,352505,11.33,397290,13.29,116025,7.85,145486,10.20,126186,9.27,139689,10.56,251261,12.16,277150,14.00,412070,17.99,381104,17.68,60946,9.32,79017,12.84,277219,9.89,396657,14.94,232192,7.01,381612,12.09,510017,9.99,569032,11.84,149945,5.96,226451,8.93,223496,15.22,226019,17.14,293559,10.21,328647,12.12,60134,13.33,72568,15.95,69843,8.04,91654,10.98,185040,17.53,226715,21.27,57371,8.96,62235,9.96,488175,11.05,668899,15.97,187616,19.92,191526,21.33,1329476,13.38,1617226,17.30,650546,15.51,686291,17.30,26938,8.58,36160,11.33,553540,9.50,698116,12.79,272603,15.45,319026,18.63,243803,13.81,250527,14.36,559314,8.90,725275,12.28,45525,8.32,53776,10.56,246194,11.79,237004,12.42,39416,10.40,41747,11.41,248997,8.47,341496,12.50,2660505,24.34,2815043,26.57,131437,11.28,163030,14.25,27434,8.82,36489,11.85,414316,11.25,487189,14.18,375179,12.35,461364,15.57,127992,14.05,122678,14.60,185064,6.78,332345,12.11,41492,16.94,40722,16.73

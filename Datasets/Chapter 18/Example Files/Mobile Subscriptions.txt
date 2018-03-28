@@ -1,0 +1,125 @@
+Series	Country	Year	Value	Flags
+Mobile subscribers	Australia	2002	1.267e+007	
+Mobile subscribers	Australia	2003	1.43e+007	
+Mobile subscribers	Australia	2004	1.6476e+007	
+Mobile subscribers	Australia	2005	1.842e+007	
+Mobile subscribers	Austria	2002	6.73637e+006	
+Mobile subscribers	Austria	2003	7.0945e+006	
+Mobile subscribers	Austria	2004	7.99117e+006	
+Mobile subscribers	Austria	2005	8.36925e+006	
+Mobile subscribers	Belgium	2002	8.10178e+006	
+Mobile subscribers	Belgium	2003	8.60583e+006	
+Mobile subscribers	Belgium	2004	9.13171e+006	
+Mobile subscribers	Belgium	2005	9.6047e+006	
+Mobile subscribers	Canada	2002	1.18721e+007	
+Mobile subscribers	Canada	2003	1.32279e+007	
+Mobile subscribers	Canada	2004	1.48888e+007	
+Mobile subscribers	Canada	2005	1.66638e+007	
+Mobile subscribers	Czech Republic	2002	8.61018e+006	
+Mobile subscribers	Czech Republic	2003	9.70868e+006	
+Mobile subscribers	Czech Republic	2004	1.07826e+007	
+Mobile subscribers	Czech Republic	2005	1.17759e+007	
+Mobile subscribers	Denmark	2002	4.47785e+006	
+Mobile subscribers	Denmark	2003	4.76728e+006	
+Mobile subscribers	Denmark	2004	5.168e+006	
+Mobile subscribers	Denmark	2005	5.46896e+006	
+Mobile subscribers	Finland	2002	4.51677e+006	
+Mobile subscribers	Finland	2003	4.747e+006	
+Mobile subscribers	Finland	2004	4.99906e+006	
+Mobile subscribers	Finland	2005	5.38457e+006	
+Mobile subscribers	France	2002	3.8593e+007	
+Mobile subscribers	France	2003	4.1702e+007	
+Mobile subscribers	France	2004	4.4544e+007	
+Mobile subscribers	France	2005	4.8099e+007	
+Mobile subscribers	Germany	2002	5.9128e+007	
+Mobile subscribers	Germany	2003	6.48e+007	
+Mobile subscribers	Germany	2004	7.4316e+007	
+Mobile subscribers	Germany	2005	7.92e+007	
+Mobile subscribers	Greece	2002	9.314e+006	
+Mobile subscribers	Greece	2003	1.033e+007	
+Mobile subscribers	Greece	2004	1.10576e+007	
+Mobile subscribers	Greece	2005	1.24485e+007	
+Mobile subscribers	Hungary	2002	6.88611e+006	
+Mobile subscribers	Hungary	2003	7.94459e+006	
+Mobile subscribers	Hungary	2004	8.72719e+006	
+Mobile subscribers	Hungary	2005	9.32017e+006	
+Mobile subscribers	Iceland	2002	260900	
+Mobile subscribers	Iceland	2003	279670	
+Mobile subscribers	Iceland	2004	290068	
+Mobile subscribers	Iceland	2005	304001	
+Mobile subscribers	Ireland	2002	3.078e+006	
+Mobile subscribers	Ireland	2003	3.421e+006	
+Mobile subscribers	Ireland	2004	3.78e+006	
+Mobile subscribers	Ireland	2005	4.213e+006	
+Mobile subscribers	Italy	2002	5.31e+007	
+Mobile subscribers	Italy	2003	5.67e+007	
+Mobile subscribers	Italy	2004	6.28378e+007	
+Mobile subscribers	Italy	2005	7.15018e+007	
+Mobile subscribers	Japan	2002	8.11183e+007	
+Mobile subscribers	Japan	2003	8.6655e+007	
+Mobile subscribers	Japan	2004	9.1474e+007	
+Mobile subscribers	Japan	2005	9.64837e+007	
+Mobile subscribers	Korea	2002	3.23425e+007	
+Mobile subscribers	Korea	2003	3.35918e+007	
+Mobile subscribers	Korea	2004	3.65861e+007	
+Mobile subscribers	Korea	2005	3.83423e+007	
+Mobile subscribers	Luxembourg	2002	473000	
+Mobile subscribers	Luxembourg	2003	539000	
+Mobile subscribers	Luxembourg	2004	646000	
+Mobile subscribers	Luxembourg	2005	719500	
+Mobile subscribers	Mexico	2002	2.59283e+007	
+Mobile subscribers	Mexico	2003	3.00977e+007	
+Mobile subscribers	Mexico	2004	3.84511e+007	
+Mobile subscribers	Mexico	2005	4.7141e+007	
+Mobile subscribers	Netherlands	2002	1.18e+007	
+Mobile subscribers	Netherlands	2003	1.31e+007	
+Mobile subscribers	Netherlands	2004	1.5913e+007	
+Mobile subscribers	Netherlands	2005	1.6289e+007	
+Mobile subscribers	New Zealand	2002	2.539e+006	
+Mobile subscribers	New Zealand	2003	2.959e+006	
+Mobile subscribers	New Zealand	2004	3.53e+006	
+Mobile subscribers	New Zealand	2005	4.18013e+006	
+Mobile subscribers	Norway	2002	3.79009e+006	
+Mobile subscribers	Norway	2003	4.06083e+006	
+Mobile subscribers	Norway	2004	4.52475e+006	
+Mobile subscribers	Norway	2005	4.75445e+006	
+Mobile subscribers	Poland	2002	1.38985e+007	
+Mobile subscribers	Poland	2003	1.74012e+007	
+Mobile subscribers	Poland	2004	2.30961e+007	
+Mobile subscribers	Poland	2005	2.91664e+007	
+Mobile subscribers	Portugal	2002	8.52894e+006	
+Mobile subscribers	Portugal	2003	1.00305e+007	
+Mobile subscribers	Portugal	2004	1.03621e+007	
+Mobile subscribers	Portugal	2005	1.14477e+007	
+Mobile subscribers	Slovak Republic	2002	2.92338e+006	
+Mobile subscribers	Slovak Republic	2003	3.67877e+006	
+Mobile subscribers	Slovak Republic	2004	4.27516e+006	
+Mobile subscribers	Slovak Republic	2005	4.27516e+006	
+Mobile subscribers	Spain	2002	3.72198e+007	
+Mobile subscribers	Spain	2003	3.86226e+007	
+Mobile subscribers	Spain	2004	3.8625e+007	
+Mobile subscribers	Spain	2005	4.26941e+007	
+Mobile subscribers	Sweden	2002	7.949e+006	
+Mobile subscribers	Sweden	2003	8.801e+006	
+Mobile subscribers	Sweden	2004	8.785e+006	
+Mobile subscribers	Sweden	2005	9.087e+006	
+Mobile subscribers	Switzerland	2002	5.7363e+006	
+Mobile subscribers	Switzerland	2003	6.18879e+006	
+Mobile subscribers	Switzerland	2004	6.27476e+006	
+Mobile subscribers	Switzerland	2005	6.83423e+006	
+Mobile subscribers	Turkey	2002	2.33231e+007	
+Mobile subscribers	Turkey	2003	2.78875e+007	
+Mobile subscribers	Turkey	2004	3.47075e+007	
+Mobile subscribers	Turkey	2005	4.3609e+007	
+Mobile subscribers	United Kingdom	2002	4.8815e+007	
+Mobile subscribers	United Kingdom	2003	5.1543e+007	
+Mobile subscribers	United Kingdom	2004	5.8386e+007	
+Mobile subscribers	United Kingdom	2005	6.3988e+007	
+Mobile subscribers	United States	2002	1.47767e+008	
+Mobile subscribers	United States	2003	1.58722e+008	
+Mobile subscribers	United States	2004	1.847e+008	
+Mobile subscribers	United States	2005	2.13e+008	
+Mobile subscribers	OECD - Total	2002	6.81497e+008	
+Mobile subscribers	OECD - Total	2003	7.41507e+008	
+Mobile subscribers	OECD - Total	2004	8.35326e+008	
+Mobile subscribers	OECD - Total	2005	9.32785e+008	

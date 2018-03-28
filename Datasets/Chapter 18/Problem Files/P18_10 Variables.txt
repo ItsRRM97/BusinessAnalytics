@@ -1,0 +1,30 @@
+Here are the variables in each .txt file.  Note that the last few variables have missing values for the first few rows.  These missing variables appear as periods (.) (The variable names below are arbitrary - they're the ones I used.)
+
+1.  AtBat - a chronological index of the at-bat number
+2.  I7 - 1 if game is into the 7th inning or beyond; 0 otherwise
+3.  O2 - 1 if there are 2 outs; 0 otherwise
+4.  HitVal1 - 0 for an out, 1 through 4 for a single through a home run, 5 for a walk, 6 for a        sacrifice
+5.  Score - number of runs batter's team is ahead by (if positive) or behind by (if negative)
+6.  R123 - 1 if any runners are on base; 0 otherwise
+7.  R23 - 1 if any runners are on 2nd or 3rd; 0 otherwise
+8.  Success1 - 1 if batter makes a hit, walk, or sacrifice; 0 if he makes an out
+9.  Success2 - 1 if batter makes a hit, 2 if he walks or sacrifices; 0 if he makes an out
+10. Game - a chronological index of the game number
+11. DN - 1 for a night game; 0 for a day game
+12. HA - 1 for a home game; 0 for an away game
+13. T - 1 if opposing pitcher is right-handed; 0 if left-handed
+14. ERA - opposing pitcher's ERA for that season
+15. Turf - 1 if playing on grass; 0 if artificial turf
+16. Bats - 1 if batting right-handed; 0 if left-handed
+17. HitVal2 - 0 for an out, 1 for a single, 2 for an extra-base hit, 3 for a walk or sacrifice
+18. Y1 - number of successes in previous at-bat
+19. Y2 - number of successes in 2 previous at-bats
+20. Y3 - number of successes in 3 previous at-bats
+21. Y4 - number of successes in 6 previous at-bats
+22. Y5 - number of successes in 10 previous at-bats
+23. Y6 - number of successes in 20 previous at-bats
+24. Y7 - exponentially weighted number of successes in 20 previous at-bats, with weight .80
+25. Y8 - same as Y7 with weight .90
+26. Y9 - same as Y7 with weight .95
+
+For each of the Y's, successes count walks and sacrifices the same as hits. That is, the Y's are based on the Success1 variable.

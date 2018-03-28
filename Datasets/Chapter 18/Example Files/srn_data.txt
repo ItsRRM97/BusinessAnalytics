@@ -1,0 +1,245 @@
+Source: http://dss.ucar.edu/datasets/ds885.1/data/ (requires a login, which is free)
+
+Files included are:
+	srn_tmp.txt (temperature data)
+	srn_pcp.txt (precipitation data)
+	srn_pdsi.txt (drought data)
+
+                               TIME BIAS CORRECTED
+                           STATEWIDE-REGIONAL-NATIONAL
+                            TEMPERATURE-PRECIPITATION
+
+THE STATEWIDE, REGIONAL, AND NATIONAL DATA
+
+     The major parameters in this file are sequential statewide, regional, and
+national monthly precipitation and monthly "time bias corrected" average
+temperature.  The period of record is 1895 through the latest month available. 
+This file is provided online and is updated monthly.  The data in this file are
+used for historical perspectives in the CLIMATE VARIATIONS BULLETIN (Historical
+Climatology Series 4-7).
+
+     The monthly values for the most recent one to two years are based on
+preliminary data and will change when the final data are analyzed.
+
+     The statewide values are available for the 48 contiguous States and are
+computed from the divisional values weighted by area.  The regional values are
+computed from the statewide values weighted by area (as defined by T.R. Karl
+and W.J. Koss, 1984:  Historical Climatology Series 4-3:  Regional and National
+Monthly, Seasonal and Annual Temperature Weighted by Area, 1895-1983).  The
+states and area weights for each region are as follows:
+
+     Northeast Region:   CT, 0.02752; DE, 0.01130; ME, 0.18251; MD, 0.05812;
+                         MA, 0.04537; NH, 0.05112; NJ, 0.04306; NY, 0.27242;
+                         PA, 0.24910; RI, 0.00667; VT, 0.05280
+
+     East North Central Region:    IA, 0.22098; MI, 0.22854; MN, 0.33003; 
+                                   WI, 0.22045
+
+     Central Region:     IL, 0.18169; IN, 0.11691; KY, 0.13013; MO, 0.22449;
+                         OH, 0.13279; TN, 0.13609; WV, 0.07790
+
+     Southeast Region:   AL, 0.17576; FL, 0.19944; GA, 0.20051; NC, 0.17952;
+                         SC, 0.10576; VA, 0.13900
+
+     West North Central Region:    MT, 0.31307; NE, 0.16432; ND, 0.15035; 
+                                   SD, 0.16393; WY, 0.20833
+
+     South Region:       AR, 0.09335; KS, 0.14461; LA, 0.08530; MS, 0.08388;
+                         OK, 0.12291; TX, 0.46995
+
+     Southwest Region:   AZ, 0.26819; CO, 0.24544; NM, 0.28645; UT, 0.19993
+
+     Northwest Region:   ID, 0.33593; OR, 0.38990; WA, 0.27416
+
+     West Region:        CA, 0.58943; NV, 0.41057
+
+     National (contiguous U.S.) values are computed from the regional values
+weighted by area.  The regional weights are as follows:
+
+     Northeast, 0.06021  East North Central, 0.08428   Central, 0.10271
+     Southeast, 0.09715  West North Central, 0.15551   South, 0.18822
+     Southwest, 0.14053  Northwest, 0.08230            West, 0.08908
+
+     The values in this file may not agree with statewide, regional, and
+national values published in other NCDC publications due to:  (1) differences
+in the way the regions are defined, (2) the temperature data are adjusted for
+time of observation bias, and (3) the most recent months are based on
+preliminary data.
+
+
+DISCUSSION OF THE DIVISIONAL VALUES
+
+     Monthly averages within a climatic division have been calculated by giving
+equal weight to stations reporting both temperature and precipitation within a
+division.  In the U.S., observers at cooperative stations often take one
+observation per day, and the ending time of the climatological day at any
+station can vary from station-to-station as well as year-to-year.  Differences
+of the 24-hour period over which each observer reports his or her maximum and 
+minimum temperature as well as the average temperature [(max + min)/2] affects 
+the calculated monthly mean temperature.  Karl, et al. (1986), describe the 
+biases that this introduces. These potential biases were rectified by 
+adjusting for these varying observation times.  The model described by Karl, 
+et al. (1986), was used to adjust the climate division averages such that all 
+stations end their climatological day at midnight; i.e., climatological day 
+coincides with calendar day.  The time of observation was determined at each 
+station within a climate division during January of the years 1931, 1941, 1951,
+1965, 1975, and 1984 for the states of California, Colorado, Illinois, Indiana,
+New York, North Carolina, and Washington.  The fraction of observers recording 
+at various hours of the day was calculated and interpolated for intervening
+years (extrapolated for subsequent years).  For these seven states, the ending 
+time of observation was grouped into three categories:  AM, PM, and MD. The AM
+category included observers who ended their climatological day between 3 AM and
+11 AM; the PM category between noon and 9 PM; and the MD category between 10 PM
+and 2 AM; all local standard time.  The fraction of observers in these
+categories was calculated, and it was assumed the 7 AM observation time  best
+represented the AM category; the 5 PM observation time, the PM category;  and
+midnight for the MD category.  The reason for the simplification was to  test
+if a faster method, requiring significantly less bookkeeping and  keypunching,
+could not provide nearly as good results as calculating the  fraction of
+observers at each of the 24 hours of the day.
+
+     The time of observation bias model was run by using the latitude and
+longitude of each of the centroids of the climate divisions.  The output from
+the model was the time of observation bias, with respect to a midnight-to-
+midnight climatological day, for each of the possible ending hours of the
+climatological day.  Each climate division's monthly average was then adjusted
+by weighting the bias at any given hour by the fraction of stations within the
+climate division observing at that hour, and subtracting the result for the
+reported monthly mean temperature.
+
+     Differences of the biases were small (< 0.3 Deg. F.) for those calculated
+by categorizing the ending time of observation into three categories compared
+to those obtained from calculating the fraction of stations with observation
+times at each of the 24 hours of the day.  This is attributed to the
+preponderance of AM observation times falling between 6 AM and 9 AM, and PM
+observation times falling between 4 PM and 7 PM.  As a result, by assuming 7 AM
+observation for all AM stations and 5 PM for all PM stations, a good estimate
+of the median bias is obtained for all AM or PM observations.  Furthermore,
+nearly all the MD stations observed at midnight.
+
+     It should also be noted that the borders of the climate divisions in 1951
+were not consistent with those defined in 1965.  Due to the substantial
+additional effort it would have required locating each station within three or
+four climate divisions, as defined today, the change in the statewide
+percentage of AM, PM, and MD observation times was applied in equal proportions
+to all climate divisions prior to and including 1951.
+
+     Based on small differences between the two methods of estimating the time
+of observation bias, the simpler categorical procedure was used for all climate
+divisions.  This should effectively eliminate most of the biases (over 2 Deg.F)
+in some climate divisions that have become part of the divisional averages.  
+These biases affect both trends and actual estimates of divisional averages.   
+
+     Reference:  Karl, et al. (1986):  "A model to estimate the time of
+observation bias associated with monthly mean maximum, minimum, and mean
+temperatures for the United States" (Thomas R. Karl, Claude N. Williams, Jr.,
+and Pamela J. Young, National Climatic Data Center, and Wayne M. Wendland,
+Illinois State Water Survey, Journal of Climate and Applied Meteorology,
+January 1986, vol. 25, pp. 145-160, American Meteorological Society, Boston,
+MA).
+
+Historical drought data have been added to this file for the period 1895 to
+present.  The file is updated monthly.  All drought data are calibrated using 
+the period 1895-1990 (cf. Karl, 1986; Journal of Climate and Applied 
+Meteorology, Vol. 25, No. 1, January 1986).  Drought data include:  
+
+Palmer Drought Severity Index (PDSI)
+
+ This is the monthly value (index) that is generated indicating the severity
+ of a wet or dry spell.  This index is based on the principles of a balance
+ between moisture supply and demand.  Man-made changes were not considered in
+ this calculation.  The index generally ranges from -6 to +6, with negative
+ values denoting dry spells and positive values indicating wet spells.  There
+ are a few values in the magnitude of +7 or -7.  PDSI values 0 to -.5 =
+ normal; -0.5 to -1.0 = incipient drought; -1.0 to -2.0 = mild drought; -2.0
+ to -3.0 = moderate drought; -3.0 to -4.0 = severe drought; and greater than -
+ 4.0 = extreme drought.  Similar adjectives are attached to positive values of
+ wet spells.  This is a meteorological drought index used to assess the
+ severity of dry or wet spells of weather.
+
+STATE CODE TABLE:
+ 
+     Range of values for the states, regions, and nation is 001-110.
+
+          001 Alabama         030 New York
+          002 Arizona         031 North Carolina
+          003 Arkansas        032 North Dakota
+          004 California      033 Ohio
+          005 Colorado        034 Oklahoma
+          006 Connecticut     035 Oregon
+          007 Delaware        036 Pennsylvania
+          008 Florida         037 Rhode Island
+          009 Georgia         038 South Carolina
+          010 Idaho           039 South Dakota
+          011 Illinois        040 Tennessee
+          012 Indiana         041 Texas
+          013 Iowa            042 Utah
+          014 Kansas          043 Vermont
+          015 Kentucky        044 Virginia
+          016 Louisiana       045 Washington
+          017 Maine           046 West Virginia
+          018 Maryland        047 Wisconsin
+          019 Massachusetts   048 Wyoming
+          020 Michigan        101 Northeast Region
+          021 Minnesota       102 East North Central Region
+          022 Mississippi     103 Central Region
+          023 Missouri        104 Southeast Region
+          024 Montana         105 West North Central Region
+          025 Nebraska        106 South Region
+          026 Nevada          107 Southwest Region
+          027 New Hampshire   108 Northwest Region
+          028 New Jersey      109 West Region
+          029 New Mexico      110 National (contiguous 48 States)
+
+
+FILE FORMAT:
+
+Element        Record
+Name           Position  Element Description
+
+STATE-CODE        1-3    STATE-CODE as indicated in State Code Table above.
+                         Range of values is 001-110.
+
+DIVISION-NUMBER    4     DIVISION NUMBER.  Value is 0 which indicates an area-
+                         averaged element.
+
+ELEMENT-CODE       5     1 = Precipitation
+                         2 = Temperature (adjusted for time of observation
+                               bias)
+                         5 = PDSI
+
+YEAR              6-9    This is the year of record.  Range is 1895 to current
+                         year processed.
+
+JAN-VALUE        10-16   Monthly Temperature format:  Range of values b-50.00
+                         to b140.00 degrees Fahrenheit.  Decimals retain a
+                         position in the 7-character field.  Missing values in
+                         the latest year are indicated by b-99.90.
+
+                         Monthly Precipitation format:  Range of values 00.00
+                         to 99.99.  Decimal point retains a position in the
+                         7-character field.  Missing values in the latest year
+                         are indicated by bb-9.99.
+
+FEB-VALUE        17-23     
+
+MAR-VALUE        24-30     
+
+APR-VALUE        31-37     
+
+MAY-VALUE        38-44     
+
+JUNE-VALUE       45-51     
+
+JULY-VALUE       52-58     
+
+AUG-VALUE        59-65     
+
+SEPT-VALUE       66-72     
+
+OCT-VALUE        73-79     
+
+NOV-VALUE        80-86     
+
+DEC-VALUE        87-93     
+

@@ -1,0 +1,4 @@
+SELECT DimProductCategory.ProductCategoryKey, DimProductCategory.ProductCategoryLabel, DimProductCategory.ProductCategoryName, 
+DimProductCategory.ProductCategoryDescription 
+FROM DimProductCategory
+WHERE ( (ProductCategoryName = 'AUDIO' OR ProductCategoryName = 'TV and VIDEO' OR ProductCategoryName = 'COMPUTERS' OR ProductCategoryName = 'CAMERAS and CAMCORDERS' OR ProductCategoryName = 'CELL PHONES' OR ProductCategoryName = 'MUSIC, MOVIES and AUDIO BOOKS') )
